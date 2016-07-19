@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mySuite" duration-ms="20236" started-at="2016-07-19T15:06:52Z" finished-at="2016-07-19T15:07:12Z">
+    <groups>
+    </groups>
+    <test name="myTests" duration-ms="20236" started-at="2016-07-19T15:06:52Z" finished-at="2016-07-19T15:07:12Z">
+      <class name="my.samples.searchGoogleTest">
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.searchGoogleTest@17f6480]" name="method" duration-ms="5373" started-at="2016-07-19T11:06:52Z" data-provider="myTest" finished-at="2016-07-19T11:06:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cleveland Cavaliers]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.searchGoogleTest@17f6480]" name="method" duration-ms="4470" started-at="2016-07-19T11:06:57Z" data-provider="myTest" finished-at="2016-07-19T11:07:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Pokemon Go]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.searchGoogleTest@17f6480]" name="method" duration-ms="5122" started-at="2016-07-19T11:07:01Z" data-provider="myTest" finished-at="2016-07-19T11:07:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cuyahoga Valley]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+        <test-method status="PASS" signature="method(java.lang.String)[pri:0, instance:my.samples.searchGoogleTest@17f6480]" name="method" duration-ms="5258" started-at="2016-07-19T11:07:06Z" data-provider="myTest" finished-at="2016-07-19T11:07:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blue Moon]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method -->
+      </class> <!-- my.samples.searchGoogleTest -->
+    </test> <!-- myTests -->
+  </suite> <!-- mySuite -->
+</testng-results>
